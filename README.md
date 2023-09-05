@@ -1,5 +1,6 @@
 # Quiz-App
-This is a simple quiz app created using python in which we have to set questions and marks for each MCQ questions and then it will randomly give quetions to the user and calculate the marks after quiz .
+This is a simple quiz app created using python in which we have to set questions and marks for each MCQ questions and then it will randomly give quetions to the user and calculate the marks after quiz .This app is made with the help of a video of programming Academy ~ youtube channel. 
+[Link](https://www.youtube.com/watch?v=xbw_FEHKWwA&ab_channel=programmingAcademy)
 
 ![image](https://user-images.githubusercontent.com/64846153/186411186-512f501b-63cf-4394-a596-bc54f130c9dc.png)
 
